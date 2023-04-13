@@ -1,0 +1,5 @@
+images:
+    Usage:
+        https://image.tmdb.org/t/p/w{width}/{image_path}
+    Example:
+        https://image.tmdb.org/t/p/w500/nlCHUWjY9XWbuEUQauCBgnY8ymF.jpg
